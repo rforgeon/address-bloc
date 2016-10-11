@@ -76,7 +76,7 @@ class MenuController
      entry_submenu(entry)
   else
     system "clear"
-    puts "Enter a valid entry number you dimwhit"
+    puts "Enter a valid entry number you dimwit"
     main_menu
   end
 
